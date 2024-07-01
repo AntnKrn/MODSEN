@@ -1,0 +1,10 @@
+.btns-wrapper {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.task-wrapper {
+  width: fit-content;
+  margin: 20px auto 0;
+}
